@@ -1,0 +1,13 @@
+2021-09-01 21:17:07.209805: category code 30 not valid.
+2021-09-01 21:21:53.128650: category code 1 not valid.
+2021-09-01 21:21:58.818115: category code 2 not valid.
+2021-09-01 21:22:02.604669: category code 3 not valid.
+2021-09-01 21:22:18.616998: category code 1 not valid.
+2021-09-01 21:22:43.469924: category code 1 not valid.
+2021-09-01 21:23:24.491278: category code 1 not valid.
+2021-09-01 21:23:30.614017: category code 1 not valid.
+2021-09-01 21:24:00.213755: category code 1 not valid.
+2021-09-01 21:24:43.705865: category code 3 not valid.
+2021-09-01 21:26:16.027642: category code 3 not valid.
+2021-09-01 21:26:41.574520: category code 3 not valid.
+2021-09-01 21:28:44.806431: category code 3 not valid.
